@@ -11,7 +11,11 @@ public class MatrixTest {
 
     //TODO Before doing Task 1 remove "/*" and "*/" (Shortcut: Ctrl + Shift + /).
 
-    /*
+    public void indexesOfNullColumns(){
+
+    }
+
+
     @Test
     public void testIndexesOfNullColumns() {
         int[][] matrix = {
@@ -51,5 +55,5 @@ public class MatrixTest {
         assertEquals(0, actual[0]);
         assertEquals(4, actual[1]);
     }
-    */
+
 }
